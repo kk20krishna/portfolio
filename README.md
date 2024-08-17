@@ -4,6 +4,7 @@
 ![Gem](https://img.shields.io/gem/dt/bulma-clean-theme.svg)
 
 https://jekyllthemes.io/theme/bulma
+https://www.csrhymes.com/bulma-clean-theme/
 
 This is a clean and simple Jekyll Theme built with the [Bulma](https://bulma.io/) framework, providing a modern-looking site to start with. 
 
